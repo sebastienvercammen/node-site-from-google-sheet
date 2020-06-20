@@ -1,0 +1,20 @@
+{
+  "name": "node-site-from-google-sheet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebastienvercammen/node-site-from-google-sheet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "AGPLv3",
+  "bugs": {
+    "url": "https://github.com/sebastienvercammen/node-site-from-google-sheet/issues"
+  },
+  "homepage": "https://github.com/sebastienvercammen/node-site-from-google-sheet#readme"
+}
