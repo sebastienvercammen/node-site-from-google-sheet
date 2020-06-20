@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/sebastienvercammen/node-site-from-google-sheet/issues"
   },
-  "homepage": "https://github.com/sebastienvercammen/node-site-from-google-sheet#readme"
+  "homepage": "https://github.com/sebastienvercammen/node-site-from-google-sheet#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "google-spreadsheet": "^3.0.11",
+    "pino": "^6.3.2"
+  },
+  "devDependencies": {
+    "pino-pretty": "^4.0.0"
+  }
 }
